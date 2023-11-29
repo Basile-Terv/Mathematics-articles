@@ -5,4 +5,4 @@ The article [Solving Irreducible Stochastic Mean-Payoff Games and Entropy Games 
 
 At the end of my 3rd year, I spent 5 months at __Imperial College__ to do research under the supervision of Pr. Antoine Jacquier and Ioannis Gasteratos. You can find my report and slides of oral presentation in [this section](/Rough_paths_Imperial_College).
 
-The file [Mean_field_limit](/Mean_field_Limit.pdf) is my report on a second research project i did during my third year at Ecole Polytechnique.
+The file [Mean_field_limit](/Mean_field_Limit.pdf) is my report on a second research project I did during my third year at Ecole Polytechnique.
